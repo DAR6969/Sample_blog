@@ -5,9 +5,4 @@ tags:
     - Ground
 ---
 
-<figure class = "left col-md-6">
-    ![football-field](/images/football-field.jpg)
-    <figcaption>
-        Here is our ground!
-    </figcaption>
-</figure>
+![this is our ground](/images/football-field.jpg "Ground")
