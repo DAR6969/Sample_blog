@@ -5,4 +5,4 @@ tags:
     - Ground
 ---
 
-![this is our ground](/images/football-field.jpg "Ground")
+![this is our ground](/images/football-field.jpg)
